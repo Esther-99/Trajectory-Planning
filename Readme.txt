@@ -3,5 +3,3 @@
 
 trajectory_main.cpp为每次规划不同的路径
 trajectory_main2.cpp为同一条路径重复运行
-
-a test
